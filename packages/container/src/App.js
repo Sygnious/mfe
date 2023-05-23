@@ -10,5 +10,3 @@ export default () => {
     </div>
   );
 }
-
-// Temporary comment, to trigger workflow
